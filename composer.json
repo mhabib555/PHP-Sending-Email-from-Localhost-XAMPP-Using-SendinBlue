@@ -1,0 +1,17 @@
+{
+    "name": "habib/send-mail-from-localhost-using-php-mailer",
+    "autoload": {
+        "psr-4": {
+            "Habib\\SendMailFromLocalhostUsingPhpMailer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Habib",
+            "email": "mhabib555@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
